@@ -1,3 +1,3 @@
 # hello_github
 Try github
-Practice by  time
+Practice by time
